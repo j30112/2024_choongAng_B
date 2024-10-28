@@ -11,7 +11,11 @@
 hehehe2222233334444
 
 정민이가 고쳐버림 
+<<<<<<< Updated upstream
 
 정민 또 고침
+=======
+성희가 고침 바부
+>>>>>>> Stashed changes
 </body>
 </html>
